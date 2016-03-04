@@ -26,4 +26,5 @@ public class PinkFragment extends Fragment
 	{
 		return inflater.inflate(R.layout.pink_fragment, container, false);
 	}
+
 }

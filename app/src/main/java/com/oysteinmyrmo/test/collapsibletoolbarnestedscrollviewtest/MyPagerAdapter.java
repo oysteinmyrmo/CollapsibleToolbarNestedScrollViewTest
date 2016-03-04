@@ -51,4 +51,5 @@ public class MyPagerAdapter extends FragmentStatePagerAdapter
 				return "Tab";
 		}
 	}
+
 }
